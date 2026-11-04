@@ -1,4 +1,2 @@
 # PKTL NY Prop v1 licenses
 SIG;cee5e1300b5adcf4865d0873fa3349af08ef012225480a31f0a6c8aa1a8e8df0
-# PKTL NY Prop v1 licenses
-SIG;94a04fa20c41651ebfa798690d6343f1542b55a24031efb0f8b53b3731cba9c6
